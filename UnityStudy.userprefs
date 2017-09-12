@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="UnityStudy.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ShaderForge\Example Assets\Shaders\js\StylizedWater_mobile_mixed.shader">
+    <Files>
+      <File FileName="Assets\ShaderForge\Example Assets\Shaders\js\SWMM-test07.shader" Line="3" Column="43" />
+      <File FileName="Assets\ShaderForge\Example Assets\Shaders\js\StylizedWater_mobile_mixed.shader" Line="29" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
